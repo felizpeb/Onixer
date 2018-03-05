@@ -12,9 +12,9 @@
 
  Eu sou iniciante em programação, e este projeto foi uma forma de desenvolver um pouco a minha noção básica em lógica, espero que da mesma forma que eu explorei o código e pude me desenvolver, este meu projeto sirva pra você também. 
   
-  ![enter image description here](https://1.bp.blogspot.com/-KiwJRbr18wY/WpznLLDlDzI/AAAAAAAACg0/qN5f3ugJLAUb98Z0GPMDdIC4YwaYoiAEgCKgBGAs/s1600/3.PNG)
+  ![enter image description here](https://2.bp.blogspot.com/-oQvV2rX1Rkc/WpzsUaBMxeI/AAAAAAAACiY/rekp2f8W19QdPxJ5UnXKX6wEIZaR-bOLwCLcBGAs/s1600/cc%2B%25281%2529.PNG.PNG)
 
 
-![enter image description here](https://1.bp.blogspot.com/-IX5ovstSxBs/WpznPXipXOI/AAAAAAAACg4/VUOZDzM02QcAPIBFouodjovuUnVVsgm3wCKgBGAs/s1600/2.PNG"foto2")
+![enter image description here](https://1.bp.blogspot.com/-QEQZVS2yZnU/Wpzr5JBFdkI/AAAAAAAACiU/rYga28olcXE6IbZOz2hZ0jsupvZv5ou8ACLcBGAs/s1600/cc%2B%25282%2529.PNG"foto2")
 
 
